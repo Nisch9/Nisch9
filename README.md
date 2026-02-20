@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=160&section=header&text=Nischith%20Adavala&fontSize=52&fontColor=FFFFFF&fontAlignY=55&desc=Full%20Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Blockchain&descAlignY=78&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=160&section=header&text=Nischith%20Adavala&fontSize=52&fontColor=FFFFFF&fontAlignY=55&desc=Full%20Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Back-End&descAlignY=78&descSize=16&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
