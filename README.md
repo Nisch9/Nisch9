@@ -9,14 +9,13 @@
 [![GitHub](https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nisch9)
 [![Daily.dev](https://img.shields.io/badge/DAILY.DEV-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/nischithadavala)
 [![Medium](https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nischithadavala)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Nisch9&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-<div align="left">
+<div align="Left">
 
 ```python
 class Nischith:
@@ -108,12 +107,12 @@ class Nischith:
 
 | Icon | Project | What it does | Stack |
 |:---:|---|---|---|
+| 🤖 | **[AI PDF Chatbot & Agent](https://github.com/Nisch9/ai-pdf-chatbot-and-agent)** | Upload PDFs and chat with them using RAG, LangGraph orchestration, streaming responses & multi-session support | Next.js · LangChain · LangGraph · Supabase · Groq · TypeScript |
 | 🧠 | **[AI Body Language Detector](https://github.com/Nisch9/AI_Body_Language_Detector)** | Real-time pose-based body language classification | Python · OpenCV · MediaPipe |
 | 🎙️ | **[Speech Emotion Recognition](https://github.com/Nisch9/Speech-Emotion-Recognition)** | Deep learning model detecting emotions from audio | TensorFlow · Librosa |
 | 🏷️ | **[Auto Image Annotations](https://github.com/Nisch9/Auto-Image-Annotations)** | Automated ML dataset labelling pipeline | JavaScript |
 | 🔥 | **[Calories Burnt Prediction](https://github.com/Nisch9/Calories_Burnt_Prediction)** | Biometric-based calorie burn estimator | Python · scikit-learn |
 | ⛓️ | **[Blockchain EHR System](https://github.com/Nisch9/Blockchain-for-Secure-EHRs-Sharing-of-Mobile-Cloud-Based-E-Health-Systems)** | Decentralized secure health record sharing | Solidity · SCSS |
-| 🧩 | **[LeetCode Archive](https://github.com/Nisch9/leetcode)** | Curated algorithmic solutions — the grind never stops | Java |
 
 </div>
 
